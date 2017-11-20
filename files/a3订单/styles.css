@@ -1774,13 +1774,15 @@
   top:393px;
   width:291px;
   height:30px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
 }
 #u146 {
   position:absolute;
   left:2px;
-  top:7px;
+  top:6px;
   width:287px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u147_img {
