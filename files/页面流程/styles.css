@@ -150,7 +150,7 @@
 #u33 {
   position:absolute;
   left:250px;
-  top:620px;
+  top:840px;
   width:150px;
   height:60px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -618,7 +618,7 @@
 #u59 {
   position:absolute;
   left:250px;
-  top:810px;
+  top:620px;
   width:150px;
   height:60px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -656,7 +656,7 @@
 #u61 {
   position:absolute;
   left:460px;
-  top:810px;
+  top:620px;
   width:150px;
   height:60px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -673,7 +673,7 @@
 #u63 {
   position:absolute;
   left:400px;
-  top:840px;
+  top:650px;
   width:0px;
   height:0px;
 }
@@ -723,7 +723,7 @@
 #u65 {
   position:absolute;
   left:250px;
-  top:920px;
+  top:730px;
   width:150px;
   height:60px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -829,7 +829,7 @@
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
-  color:#CCCCCC;
+  color:#999999;
 }
 #u71 {
   position:absolute;
@@ -840,7 +840,7 @@
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
-  color:#CCCCCC;
+  color:#999999;
 }
 #u72 {
   position:absolute;
@@ -1065,7 +1065,7 @@
 #u83 {
   position:absolute;
   left:460px;
-  top:620px;
+  top:840px;
   width:150px;
   height:60px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -1099,16 +1099,18 @@
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
+  color:#999999;
 }
 #u85 {
   position:absolute;
   left:460px;
-  top:700px;
+  top:920px;
   width:150px;
   height:60px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
+  color:#999999;
 }
 #u86 {
   position:absolute;
@@ -1120,7 +1122,7 @@
 #u87 {
   position:absolute;
   left:400px;
-  top:650px;
+  top:870px;
   width:0px;
   height:0px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -1154,7 +1156,7 @@
 #u89 {
   position:absolute;
   left:400px;
-  top:650px;
+  top:870px;
   width:0px;
   height:0px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
