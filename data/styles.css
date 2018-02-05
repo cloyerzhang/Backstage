@@ -55,6 +55,8 @@
 ._文本段落 {
   text-align:left;
 }
+.line {
+}
 ._流程形状 {
 }
 ._连接线 {
@@ -69,6 +71,12 @@
 .table_cell {
 }
 .flow_shape {
+}
+.box_1 {
+}
+.box_2 {
+}
+.ellipse {
 }
 .image {
 }
