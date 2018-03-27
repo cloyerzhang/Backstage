@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1343px;
+  width:1220px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -181,7 +181,7 @@
 #u11 {
   position:absolute;
   left:409px;
-  top:539px;
+  top:701px;
   width:0px;
   height:0px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -234,7 +234,7 @@
 #u13 {
   position:absolute;
   left:475px;
-  top:530px;
+  top:692px;
   width:169px;
   height:20px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
@@ -248,77 +248,5 @@
   left:0px;
   top:0px;
   width:169px;
-  white-space:nowrap;
-}
-#u15 {
-  position:absolute;
-  left:1164px;
-  top:609px;
-  width:0px;
-  height:0px;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-  font-size:14px;
-  color:#1E1E1E;
-}
-#u15_seg0 {
-  position:absolute;
-  left:0px;
-  top:-4px;
-  width:65px;
-  height:8px;
-}
-#u15_seg1 {
-  position:absolute;
-  left:43px;
-  top:-10px;
-  width:20px;
-  height:20px;
-}
-#u16 {
-  position:absolute;
-  left:-20px;
-  top:-8px;
-  width:100px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u17_div {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:113px;
-  height:20px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
-  font-weight:700;
-  font-style:normal;
-  font-size:14px;
-  color:#FF6699;
-}
-#u17 {
-  position:absolute;
-  left:1230px;
-  top:600px;
-  width:113px;
-  height:20px;
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
-  font-weight:700;
-  font-style:normal;
-  font-size:14px;
-  color:#FF6699;
-}
-#u18 {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:113px;
   white-space:nowrap;
 }
