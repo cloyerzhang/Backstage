@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1371px;
+  width:1322px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -17,27 +17,27 @@
   left:0px;
   top:0px;
   width:1200px;
-  height:853px;
+  height:1013px;
 }
 #u0 {
   position:absolute;
   left:20px;
   top:20px;
   width:1200px;
-  height:853px;
+  height:1013px;
 }
 #u1 {
   position:absolute;
   left:2px;
-  top:418px;
+  top:498px;
   width:1196px;
   visibility:hidden;
   word-wrap:break-word;
 }
 #u2 {
   position:absolute;
-  left:335px;
-  top:108px;
+  left:1137px;
+  top:233px;
   width:0px;
   height:0px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -72,7 +72,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:111px;
+  width:109px;
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -82,19 +82,17 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
-  font-weight:700;
   font-style:normal;
   font-size:14px;
   color:#FF6699;
 }
 #u4 {
   position:absolute;
-  left:411px;
-  top:99px;
-  width:111px;
+  left:1213px;
+  top:224px;
+  width:109px;
   height:20px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
-  font-weight:700;
   font-style:normal;
   font-size:14px;
   color:#FF6699;
@@ -103,13 +101,13 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:111px;
+  width:109px;
   white-space:nowrap;
 }
 #u6 {
   position:absolute;
-  left:1184px;
-  top:185px;
+  left:1137px;
+  top:536px;
   width:0px;
   height:0px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -144,7 +142,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:111px;
+  width:109px;
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -154,19 +152,17 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
-  font-weight:700;
   font-style:normal;
   font-size:14px;
   color:#FF6699;
 }
 #u8 {
   position:absolute;
-  left:1260px;
-  top:176px;
-  width:111px;
+  left:1213px;
+  top:527px;
+  width:109px;
   height:20px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
-  font-weight:700;
   font-style:normal;
   font-size:14px;
   color:#FF6699;
@@ -175,6 +171,6 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:111px;
+  width:109px;
   white-space:nowrap;
 }
